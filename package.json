@@ -16,7 +16,7 @@
     "morgan": "^1.8.1",
     "mysql": "^2.13.0",
     "orm": "^3.2.3",
-    "webticker": "^3.0.0"
+    // "webticker": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
